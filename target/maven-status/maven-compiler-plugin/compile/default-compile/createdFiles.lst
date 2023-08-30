@@ -1,0 +1,7 @@
+order\OrderClient.class
+user\UserClient.class
+utils\RandomOrderGenerator.class
+utils\RandomUserGenerator.class
+order\Order.class
+user\UserCreds.class
+user\User.class
